@@ -1,2 +1,2 @@
 # Vibe-Coding-Hackathon
-#hackathongit 
+Initial setup
