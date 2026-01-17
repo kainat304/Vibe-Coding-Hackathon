@@ -1,0 +1,39 @@
+/* ==========================================================================
+   VIBE THEME - NEON VERSION
+   ========================================================================== */
+
+/* 
+   Defining the Neon theme using CSS Custom Properties (Variables).
+   This is an additive layer that activates only when data-theme="neon".
+*/
+
+html[data-theme="neon"] {
+    /* Backgrounds: Deep Cyberpunk Black/Grey */
+    --global-bg-color: #0D0D0D;
+    --global-footer-bg-color: #050505;
+    --global-code-background-color: #1a1a1a;
+
+    /* Text: High Contrast White & Off-White */
+    --global-text-color: #FFFFFF;
+    --global-text-color-light: #E0E0E0;
+    --global-fig-caption-color: #A0AEC0;
+
+    /* Primary Accents: Neon Cyan */
+    --global-base-color: #00F2FF;
+    --global-link-color: #00F2FF;
+    --global-link-color-visited: #D600BE; /* Purple/Pink visited */
+    --global-link-color-hover: #FFFFFF;
+
+    /* Secondary Accents: Neon Pink/Magenta */
+    --global-masthead-link-color: #FF00E5;
+    --global-masthead-link-color-hover: #00F2FF;
+
+    /* Borders & UI Elements */
+    --global-border-color: #333333;
+    --global-dark-border-color: #00F2FF; /* Glowing borders */
+    --global-thead-color: #1A202C;
+    
+    /* Interactive Elements */
+    --button-bg-color: #00F2FF;
+    --button-text-color: #000000;
+}
