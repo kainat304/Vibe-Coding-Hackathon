@@ -1,11 +1,9 @@
 ---
-layout: single
-title: "Interactive Portfolio"
-permalink: /portfolio/
-author_profile: true
+title: "Interactive Case Study: Vibe Coding"
+excerpt: "A deep dive into the Vibe Coding project with interactive content reveals and visual storytelling. <br/><img src='/images/500x300.png'>"
+collection: portfolio
+date: 2026-01-18
 ---
-
-{% include base_path %}
 
 <style>
   /* Scoped styles for this portfolio item */
