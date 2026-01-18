@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<div class="notice--info">
+  <h4><i class="fas fa-universal-access"></i> Multi-Modal Experience</h4>
+  <p>You can consume my CV in your preferred format: Read the text, View the visual journey, or Listen to the podcast version.</p>
+</div>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div id="cv-interactive-header" style="margin-bottom: 2em; padding: 1.5em; background: var(--global-code-background-color); border-radius: 8px; border: 1px solid var(--global-border-color);">
+  <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
+    <div style="flex: 1; min-width: 300px;">
+      <h3><i class="fas fa-headphones"></i> Listen to my Journey</h3>
+      <audio controls style="width: 100%; margin-top: 0.5rem;">
+        <source src="/files/podcast_kainat.m4a" type="audio/x-m4a">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <a href="/files/resume_kainat.pdf" class="btn btn--primary btn--large" target="_blank">
+        <i class="fas fa-file-download"></i> Download PDF CV
+      </a>
+    </div>
+  </div>
+</div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## <i class="fas fa-image"></i> Visual Infographic
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div style="margin-bottom: 2rem;">
+  <img src="/files/info_kainat.png" alt="Kainat Khalid - Visual Resume Infographic" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+</div>
