@@ -1,7 +1,7 @@
 # Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
 
-# Install dependencies
+# Install dependenciessss
 RUN apt-get update && apt-get install -y \
     build-essential \
     nodejs \
