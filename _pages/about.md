@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm the architect of digital delight"
+title: "I am the architect of digital delight"
 layout: splash
 author_profile: true
 header:
