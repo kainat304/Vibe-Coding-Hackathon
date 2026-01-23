@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Creating UX powered by AI"
+title: "I'm the architect of digital delight"
 layout: splash
 author_profile: true
 header:
@@ -8,7 +8,7 @@ header:
   profile_image: /images/profile_image.jpeg
   cta_label: "View Portfolio"
   cta_url: "/portfolio/"
-excerpt: "UX Designer & Researcher dedicated to crafting accessible, interactive digital experiences."
+excerpt: "Weaving empathy and innovation into every pixel. With a keen understanding of human behavior, I shape immersive experiences that bridge the gap between technology and humanity."
 ---
 
 # Welcome
